@@ -1,11 +1,52 @@
-Package: gnome-music
-Version: 44.0-1
-Architecture: amd64
-Depends: gir1.2-adw-1, gir1.2-glib-2.0, gir1.2-goa-1.0, gir1.2-grilo-0.3, gir1.2-gst-plugins-base-1.0, gir1.2-gstreamer-1.0, gir1.2-gtk-4.0, gir1.2-mediaart-2.0, gir1.2-pango-1.0, gir1.2-gtk-4.0, gir1.2-mediaart-2.0, gir1.2-pango-1.0, gir1.2-soup-2.4, gir1.2-totemplparser-1.0, gir1.2-tracker-3.0, gnome-settings-daemon, grilo-plugins-0.3, python3, python3-gi, python3-gi-cairo, python3-requests, tracker, dconf-gsettings-backend, gobject-introspection, libadwaita-1-0, libmediaart-2.0-0, libsoup-3.0-0, libtracker-sparql-3.0-0, python3-cairo, gir1.2-grilo-0.3, itstool
-Filename: ./main/gnome-music_44.0-1_amd64.deb
-Size: 363890
-MD5sum: 282d3f91deecef0501cf4d2f1f88af08
-SHA1: becdc16ca52941dfcf1edbbc2b3ba47f23f7c115
-SHA256: 4019bd7c29ba86e6dda1b578b109754e63d49a98a44caa8022abe0032f949616
-Description: Music is the new GNOME music playing application aiming at being a simple and elegant replacement for using FIles to show the Music Directory
-
+Architectures: amd64
+Codename: cookie
+Components: main
+Date: Sat, 29 Jul 2023 15:36:53 +0000
+Description: A
+Label: espDebian
+Origin: espDebian
+Suite: cookie
+MD5Sum:
+ 0902e5a0182062319472ac442793db1b               28 Contents-amd64.bz2
+ e62ff0123a74adfc6903d59a449cbdb0               40 Contents-amd64.gz
+ aadff3c8666db17cfd2fa0ce6f852090              157 Release
+ 0902e5a0182062319472ac442793db1b               28 main/Contents-amd64.bz2
+ e62ff0123a74adfc6903d59a449cbdb0               40 main/Contents-amd64.gz
+ 0902e5a0182062319472ac442793db1b               28 main/Contents-i386.bz2
+ e62ff0123a74adfc6903d59a449cbdb0               40 main/Contents-i386.gz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-amd64/Packages
+ 0902e5a0182062319472ac442793db1b               28 main/binary-amd64/Packages.bz2
+ e62ff0123a74adfc6903d59a449cbdb0               40 main/binary-amd64/Packages.gz
+SHA1:
+ dcddcbc89128ee4d36fe584b2a982131e8f70d53               28 Contents-amd64.bz2
+ e3f4c61a216c2c9613cd3bdd1420dde095b296b3               40 Contents-amd64.gz
+ bfa40b25b352fa4c6905a43700e623c9f34c69b1              157 Release
+ dcddcbc89128ee4d36fe584b2a982131e8f70d53               28 main/Contents-amd64.bz2
+ e3f4c61a216c2c9613cd3bdd1420dde095b296b3               40 main/Contents-amd64.gz
+ dcddcbc89128ee4d36fe584b2a982131e8f70d53               28 main/Contents-i386.bz2
+ e3f4c61a216c2c9613cd3bdd1420dde095b296b3               40 main/Contents-i386.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-amd64/Packages
+ dcddcbc89128ee4d36fe584b2a982131e8f70d53               28 main/binary-amd64/Packages.bz2
+ e3f4c61a216c2c9613cd3bdd1420dde095b296b3               40 main/binary-amd64/Packages.gz
+SHA256:
+ f43ffa97e8272d81422a41aa2b1599c418bd3c361fe23ebdd391676379dfe771               28 Contents-amd64.bz2
+ e7ab72b8f37c7c9c9f6386fb8e3dfa40bf6fe4b67876703c5927e47cb8664ce4               40 Contents-amd64.gz
+ b75a98319762874ff39be57d02ec0585b1b39fa6c7e9fa91223920f597902661              157 Release
+ f43ffa97e8272d81422a41aa2b1599c418bd3c361fe23ebdd391676379dfe771               28 main/Contents-amd64.bz2
+ e7ab72b8f37c7c9c9f6386fb8e3dfa40bf6fe4b67876703c5927e47cb8664ce4               40 main/Contents-amd64.gz
+ f43ffa97e8272d81422a41aa2b1599c418bd3c361fe23ebdd391676379dfe771               28 main/Contents-i386.bz2
+ e7ab72b8f37c7c9c9f6386fb8e3dfa40bf6fe4b67876703c5927e47cb8664ce4               40 main/Contents-i386.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-amd64/Packages
+ f43ffa97e8272d81422a41aa2b1599c418bd3c361fe23ebdd391676379dfe771               28 main/binary-amd64/Packages.bz2
+ e7ab72b8f37c7c9c9f6386fb8e3dfa40bf6fe4b67876703c5927e47cb8664ce4               40 main/binary-amd64/Packages.gz
+SHA512:
+ 37a17e9952eed92a1dfa196475721d1f8a96a58aac1a17e46a5df6b466a26655f151cc0b3b3005e442cd01feadf28ca095df66df47b7582992e1ceacc2cc632f               28 Contents-amd64.bz2
+ 4837cb0c747b88cd66d2e8a7cb7fe2808a8fd9f967e467810a0dddfee9befdef8891f3be5c26e319d2ac8a869cb9e39d5ba1fb484db73231cec9fd66d1d5df33               40 Contents-amd64.gz
+ ba8808c3ca109af25e49b621fbad01b154887cdb9abf64990acd170dff9b5c1f1ca230c58311f74cd7b5558b77a0a618721dd808050774a81073be8ceaf6af50              157 Release
+ 37a17e9952eed92a1dfa196475721d1f8a96a58aac1a17e46a5df6b466a26655f151cc0b3b3005e442cd01feadf28ca095df66df47b7582992e1ceacc2cc632f               28 main/Contents-amd64.bz2
+ 4837cb0c747b88cd66d2e8a7cb7fe2808a8fd9f967e467810a0dddfee9befdef8891f3be5c26e319d2ac8a869cb9e39d5ba1fb484db73231cec9fd66d1d5df33               40 main/Contents-amd64.gz
+ 37a17e9952eed92a1dfa196475721d1f8a96a58aac1a17e46a5df6b466a26655f151cc0b3b3005e442cd01feadf28ca095df66df47b7582992e1ceacc2cc632f               28 main/Contents-i386.bz2
+ 4837cb0c747b88cd66d2e8a7cb7fe2808a8fd9f967e467810a0dddfee9befdef8891f3be5c26e319d2ac8a869cb9e39d5ba1fb484db73231cec9fd66d1d5df33               40 main/Contents-i386.gz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-amd64/Packages
+ 37a17e9952eed92a1dfa196475721d1f8a96a58aac1a17e46a5df6b466a26655f151cc0b3b3005e442cd01feadf28ca095df66df47b7582992e1ceacc2cc632f               28 main/binary-amd64/Packages.bz2
+ 4837cb0c747b88cd66d2e8a7cb7fe2808a8fd9f967e467810a0dddfee9befdef8891f3be5c26e319d2ac8a869cb9e39d5ba1fb484db73231cec9fd66d1d5df33               40 main/binary-amd64/Packages.gz
