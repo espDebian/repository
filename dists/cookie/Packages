@@ -1,0 +1,19 @@
+Package: gnome-music
+Version: 44.0-1
+Architecture: amd64
+Maintainer: Daniel <danilacasito8@gmail.com>
+Installed-Size: 2299
+Depends: gir1.2-adw-1, gir1.2-glib-2.0, gir1.2-goa-1.0, gir1.2-grilo-0.3, gir1.2-gst-plugins-base-1.0, gir1.2-gstreamer-1.0, gir1.2-gtk-4.0, gir1.2-mediaart-2.0, gir1.2-pango-1.0, gir1.2-soup-2.4, gir1.2-totemplparser-1.0, gir1.2-tracker-3.0, gnome-settings-daemon, grilo-plugins-0.3, python3, python3-gi, python3-gi-cairo, python3-requests, tracker, dconf-gsettings-backend | gsettings-backend, python3:any
+Suggests: gnome-online-accounts
+Filename: ./main/binary-amd64/gnome/gnome-music_44.0-1_amd64.deb
+Size: 254244
+MD5sum: ce08015fb3d2499b7bc9e14e0503195d
+SHA1: 299a4baa03757c1f31748e7692232475d3e54133
+SHA256: 2fb3483db71f9763f300f5a6575048db58ad3a8a6e6f56fe5bb991865a7f8aa6
+Section: gnome
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Music is the new GNOME music playing application
+ Music is the new GNOME music playing application aiming at being a simple and elegant replacement for using Files to show the Music directory
+ Objetives includes listening to local and online/cloud collections, listen to music on attached devices, listen to music shared by friends, listen to audiobooks, a player for DLNA media servers, share music, upload music and select favorites
+
